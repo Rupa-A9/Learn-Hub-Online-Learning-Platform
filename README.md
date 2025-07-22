@@ -84,12 +84,5 @@ This project is licensed under the [MIT License](LICENSE).
 - All contributors and users helping to build LearnHub.
 - Open-source libraries and frameworks that power this project.
 
----
-## Links
-
-- Demo link: https://drive.google.com/drive/folders/1vxytzTA7WvN9yjLmIPVhJSM3vYuz2Jda?usp=drive_link
-
-- Project documentation: https://drive.google.com/drive/folders/1zEAsg6l6CzSK9UtcSl38avq9HHEaFVkW?usp=sharing
-  
 **LearnHub: Empowering your learning journey, one skill at a time!**
 
